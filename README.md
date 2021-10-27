@@ -16,5 +16,5 @@ Tools- Google colaboratory
 This is what my data exploration looks like -
 
 
-![newplot](https://user-images.githubusercontent.com/30005280/137873628-1b8086c0-9775-4764-9e85-17f20918e2b3.png)
+![newplot](https://github.com/anquabkhan/Fatal_force/blob/main/images/Fatal_force_img1.png)
 ![newplot (1)](https://user-images.githubusercontent.com/30005280/137873981-7c7a12fe-64e6-4d88-b330-0dd5e4ad0ea0.png)
