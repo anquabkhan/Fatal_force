@@ -9,7 +9,7 @@ Project Overview:
 
 # Code and Resources Used:
 Python version- 3.9
-Packages- Pandas, Numpy, plotly, matplotlib, seaborn, datetime, iso3166
+Packages- Pandas, Numpy, plotly, matplotlib, seaborn, datetime, iso3166, sklearn
 Tools- Google colaboratory 
 
 # Data Exploration:
